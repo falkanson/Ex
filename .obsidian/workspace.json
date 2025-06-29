@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "15fbcfd4bf75e0cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "54defb132309be0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e4d88603c5612c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektron im Magnetfeld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektron im Magnetfeld"
+            }
+          },
+          {
+            "id": "8dc8b852c260b782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektron im Magnetfeld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektron im Magnetfeld"
+            }
+          },
+          {
+            "id": "f27012acca4016b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drehmoment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drehmoment"
+            }
+          },
+          {
+            "id": "2c3bb4ae0c17f353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zentripedalkraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zentripedalkraft"
+            }
+          },
+          {
+            "id": "1585b2eb59863bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zyklotronfrequenz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zyklotronfrequenz"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4944f017446ab31",
+    "type": "split",
+    "children": [
+      {
+        "id": "187b18a752a84317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb627f5abc0c6723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85df45ce6c6180c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4fe88e2d3b5ec430",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "928d75ed2239f52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49c73003b06ee0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7898099ccf29d55e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coulombsches Gesetz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Coulombsches Gesetz"
+            }
+          },
+          {
+            "id": "64a29d652da70503",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coulombsches Gesetz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Coulombsches Gesetz"
+            }
+          },
+          {
+            "id": "6742c33a76ddb521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4492b7bc9dea1434",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coulombsches Gesetz.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Coulombsches Gesetz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f27012acca4016b4",
+  "lastOpenFiles": [
+    "Elektron im Magnetfeld.md",
+    "Drehmoment.md",
+    "Zentripedalkraft.md",
+    "Rotationsgeschwindichkeit.md",
+    "Zyklotronfrequenz.md",
+    "Newton 2.md",
+    "Lorenzkraft.md",
+    "Elektrsiche Kraft.md",
+    "Wiederstandschaltungen.md",
+    "Kirschoffsche Regeln.md",
+    "Magnetischeflussdichte.md",
+    "Magnetischer Fluß.md",
+    "Strom(I)schaltungen.md",
+    "Spannungsschaltungen.md",
+    "Elektrische Leistung.md",
+    "Driftgeschwindichkeit.md",
+    "Spezifische Leitfähigkeit.md",
+    "Ohmsche Gesetz.md",
+    "Stromdichte.md",
+    "Spezifischer Widerstand.md",
+    "Elektrischer Wiederstand.md",
+    "Kontinuitätsgleichung.md",
+    "Elektrischer Strom.md",
+    "Kondenator Energie im Dielektrikum.md",
+    "Kondensator Energie.md",
+    "Maxwell 1 in Materie.md",
+    "Untitled.canvas"
+  ]
+}

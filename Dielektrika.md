@@ -1,0 +1,10 @@
+$$
+\huge
+\vec{E}_{vac}=\epsilon_{r}*\vec{E}_{Diel}
+$$
+$$
+C_{Diel}=\epsilon_{r}C_{vac}
+$$
+$$
+Q_{frei}=\epsilon_{r}Q_{eff}
+$$
