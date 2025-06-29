@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c6eaaa9b866e3295",
+        "id": "7526c412187554c4",
         "type": "tabs",
         "children": [
           {
-            "id": "bebe119167704d28",
+            "id": "6b94453dc7909d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetischeflussdichte.md",
+                "file": "Zirkulationsgesetz des E-Felds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetischeflussdichte"
+              "title": "Zirkulationsgesetz des E-Felds"
             }
           },
           {
-            "id": "d38e3f4b41ecc347",
+            "id": "b48f39a58fd6466e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jacobi Identiät.md",
+                "file": "Zirkulationsgestz des B-Felds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jacobi Identiät"
-            }
-          },
-          {
-            "id": "783a773e23943c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maxwell 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maxwell 2"
+              "title": "Zirkulationsgestz des B-Felds"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zirk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,15 +184,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bb627f5abc0c6723",
+  "active": "b48f39a58fd6466e",
   "lastOpenFiles": [
+    "Zirkulationsgesetz des E-Felds.md",
+    "Zirkulationsgestz des B-Felds.md",
     "Maxwell 2.md",
-    "test.md",
+    "Magnetischeflussdichte.md",
     "Gaußschesgestz.md",
-    "Maxwell 1.md",
+    "Maxwell 1  - Bonus.md",
+    "test.md",
     "Jacobi Identiät.md",
     "push",
-    "Magnetischeflussdichte.md",
     "Hallspannung.md",
     "Elektrischer Strom.md",
     "Lorenzkraft.md",
@@ -225,8 +213,6 @@
     "Newton 2.md",
     "Wiederstandschaltungen.md",
     "Kirschoffsche Regeln.md",
-    "Magnetischer Fluß.md",
-    "Strom(I)schaltungen.md",
-    "Spannungsschaltungen.md"
+    "Magnetischer Fluß.md"
   ]
 }
