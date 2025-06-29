@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "54defb132309be0a",
+        "id": "c6eaaa9b866e3295",
         "type": "tabs",
         "children": [
           {
-            "id": "65e4d88603c5612c",
+            "id": "bebe119167704d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektron im Magnetfeld.md",
+                "file": "Hallspannung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektron im Magnetfeld"
-            }
-          },
-          {
-            "id": "8dc8b852c260b782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektron im Magnetfeld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elektron im Magnetfeld"
-            }
-          },
-          {
-            "id": "f27012acca4016b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drehmoment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drehmoment"
-            }
-          },
-          {
-            "id": "2c3bb4ae0c17f353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zentripedalkraft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zentripedalkraft"
-            }
-          },
-          {
-            "id": "1585b2eb59863bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zyklotronfrequenz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zyklotronfrequenz"
+              "title": "Hallspannung"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,16 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f27012acca4016b4",
+  "active": "bebe119167704d28",
   "lastOpenFiles": [
-    "Elektron im Magnetfeld.md",
-    "Drehmoment.md",
-    "Zentripedalkraft.md",
-    "Rotationsgeschwindichkeit.md",
-    "Zyklotronfrequenz.md",
-    "Newton 2.md",
+    "Elektrischer Strom.md",
     "Lorenzkraft.md",
+    "Hallspannung.md",
+    "Untitled.canvas",
+    "Magnetisches Dipolmoment.md",
     "Elektrsiche Kraft.md",
+    "Drehmoment auf Leiterschlaufe.md",
+    "Zyklotronfrequenz.md",
+    "Zentripedalkraft.md",
+    "Drehmoment.md",
+    "Elektrisches Dipolmement.md",
+    "Elektrischer Dipol.md",
+    "Polarisation.md",
+    "Elektron im Magnetfeld.md",
+    "Rotationsgeschwindichkeit.md",
+    "Newton 2.md",
     "Wiederstandschaltungen.md",
     "Kirschoffsche Regeln.md",
     "Magnetischeflussdichte.md",
@@ -245,14 +196,6 @@
     "Driftgeschwindichkeit.md",
     "Spezifische Leitfähigkeit.md",
     "Ohmsche Gesetz.md",
-    "Stromdichte.md",
-    "Spezifischer Widerstand.md",
-    "Elektrischer Wiederstand.md",
-    "Kontinuitätsgleichung.md",
-    "Elektrischer Strom.md",
-    "Kondenator Energie im Dielektrikum.md",
-    "Kondensator Energie.md",
-    "Maxwell 1 in Materie.md",
-    "Untitled.canvas"
+    "Stromdichte.md"
   ]
 }

@@ -9,5 +9,5 @@ $$\huge
 $$
 ### Für einen Elektrischen Leiter
 $$\large
-\vec{F}=I\left( \vec{j} \times \vec{B} \right)
+\vec{F}=I\left( \vec{l} \times \vec{B} \right)\implies F=BIS
 $$

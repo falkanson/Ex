@@ -1,7 +1,7 @@
 $$
 \huge \varphi(\vec{r})=\frac{1}{r\pi\epsilon_{0}} * \frac{\vec{p}*\vec{r}}{r^3}
 $$
-$\vec{p}$ := Polarisation
+$\vec{p}$ := [[Elektrisches Dipolmement]]
 
 ---
 

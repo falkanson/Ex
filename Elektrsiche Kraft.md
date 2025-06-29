@@ -1,3 +1,3 @@
 $$\huge
-\vec{F}=E*q
+\vec{F}=\vec{E}*q
 $$
