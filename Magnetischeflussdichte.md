@@ -1,4 +1,6 @@
+##  Leiters
+$$\huge
+\vec{B}(\vec{r})=\frac{\mu_{0}}{2\pi} \frac{I}{|\vec{r}|}(\hat{l}\times \hat{r})
 $$
-\lvert  \vec{B} \rvert=\frac{\mu}{2\pi} \frac{I}{R}
-$$
+Für Betrag fällt Kreuzprodukt Term weg
 
