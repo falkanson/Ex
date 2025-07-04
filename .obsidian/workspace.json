@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b94453dc7909d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zirkulationsgesetz des E-Felds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zirkulationsgesetz des E-Felds"
-            }
-          },
-          {
             "id": "b48f39a58fd6466e",
             "type": "leaf",
             "state": {
@@ -34,9 +20,37 @@
               "icon": "lucide-file",
               "title": "Zirkulationsgestz des B-Felds"
             }
+          },
+          {
+            "id": "c6fc14078bd76ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windungsdichte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windungsdichte"
+            }
+          },
+          {
+            "id": "5d36141ade11d4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biot-Savat Gesetz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biot-Savat Gesetz"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,18 +194,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b48f39a58fd6466e",
+  "active": "5d36141ade11d4a1",
   "lastOpenFiles": [
-    "Zirkulationsgesetz des E-Felds.md",
+    "Windungsdichte.md",
     "Zirkulationsgestz des B-Felds.md",
-    "Maxwell 2.md",
-    "Magnetischeflussdichte.md",
-    "Gaußschesgestz.md",
+    "Biot-Savat Gesetz.md",
+    "Untitled.md",
+    "Drehmoment auf Leiterschlaufe.md",
+    "Drehmoment.md",
+    "Driftgeschwindichkeit.md",
+    "Zirkulationskgesetz B-Feld Beispiele.md",
     "Maxwell 1  - Bonus.md",
+    "Maxwell 1 in Materie.md",
+    "Maxwell 2.md",
+    "Newton 2.md",
+    "Zirkulationsgesetz des E-Felds.md",
+    "Magnetischer Fluß.md",
+    "Magnetischeflussdichte.md",
+    "Ladungsdichte.md",
+    "Kontinuitätsgleichung.md",
+    "Gaußschesgestz.md",
     "test.md",
     "Jacobi Identiät.md",
     "push",
@@ -201,18 +226,6 @@
     "Untitled.canvas",
     "Magnetisches Dipolmoment.md",
     "Elektrsiche Kraft.md",
-    "Drehmoment auf Leiterschlaufe.md",
-    "Zyklotronfrequenz.md",
-    "Zentripedalkraft.md",
-    "Drehmoment.md",
-    "Elektrisches Dipolmement.md",
-    "Elektrischer Dipol.md",
-    "Polarisation.md",
-    "Elektron im Magnetfeld.md",
-    "Rotationsgeschwindichkeit.md",
-    "Newton 2.md",
-    "Wiederstandschaltungen.md",
-    "Kirschoffsche Regeln.md",
-    "Magnetischer Fluß.md"
+    "Zyklotronfrequenz.md"
   ]
 }
