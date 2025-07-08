@@ -12,3 +12,4 @@ $$
 $$
 
 $\chi := \space \text{Suszepzibilität} =\epsilon_{r}-1$
+[[Elektrische Suszeptibilität]]

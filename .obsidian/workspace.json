@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6b94453dc7909d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zirkulationsgesetz des E-Felds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zirkulationsgesetz des E-Felds"
+            }
+          },
+          {
             "id": "b48f39a58fd6466e",
             "type": "leaf",
             "state": {
@@ -22,35 +36,91 @@
             }
           },
           {
-            "id": "c6fc14078bd76ca4",
+            "id": "1eaae241889855c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windungsdichte.md",
+                "file": "Molekularstrom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windungsdichte"
+              "title": "Molekularstrom"
             }
           },
           {
-            "id": "5d36141ade11d4a1",
+            "id": "5a0026747780afc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biot-Savat Gesetz.md",
+                "file": "Magnetisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biot-Savat Gesetz"
+              "title": "Magnetisierung"
+            }
+          },
+          {
+            "id": "b2e1bdde2f80e112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polarisation"
+            }
+          },
+          {
+            "id": "2a161710c2f71f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetische Suszeptibilität.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnetische Suszeptibilität"
+            }
+          },
+          {
+            "id": "fdbe07745032a364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrische Suszeptibilität.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektrische Suszeptibilität"
+            }
+          },
+          {
+            "id": "bf4b5891533c063f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetischeflussdichte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnetischeflussdichte"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -69,7 +139,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -82,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zirk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,25 +268,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d36141ade11d4a1",
+  "active": "85df45ce6c6180c2",
   "lastOpenFiles": [
-    "Windungsdichte.md",
-    "Zirkulationsgestz des B-Felds.md",
-    "Biot-Savat Gesetz.md",
-    "Untitled.md",
-    "Drehmoment auf Leiterschlaufe.md",
-    "Drehmoment.md",
-    "Driftgeschwindichkeit.md",
-    "Zirkulationskgesetz B-Feld Beispiele.md",
-    "Maxwell 1  - Bonus.md",
-    "Maxwell 1 in Materie.md",
-    "Maxwell 2.md",
-    "Newton 2.md",
-    "Zirkulationsgesetz des E-Felds.md",
-    "Magnetischer Fluß.md",
+    "Elektrische Suszeptibilität.md",
+    "Magnetische Suszeptibilität.md",
     "Magnetischeflussdichte.md",
-    "Ladungsdichte.md",
-    "Kontinuitätsgleichung.md",
+    "Magnetischer Fluß.md",
+    "Magnetische Erregung.md",
+    "Magnetisierung.md",
+    "Polarisation.md",
+    "Untitled.md",
+    "Molekularstrom.md",
+    "Magnetischer Dipolmoment.md",
+    "Zirkulationsgestz des B-Felds.md",
+    "Zirkulationsgesetz des E-Felds.md",
+    "Zirkulationskgesetz B-Feld Beispiele.md",
+    "Windungsdichte.md",
+    "Biot-Savat Gesetz.md",
+    "Maxwell 1  - Bonus.md",
+    "Maxwell 2.md",
     "Gaußschesgestz.md",
     "test.md",
     "Jacobi Identiät.md",
@@ -226,6 +297,6 @@
     "Untitled.canvas",
     "Magnetisches Dipolmoment.md",
     "Elektrsiche Kraft.md",
-    "Zyklotronfrequenz.md"
+    "Drehmoment auf Leiterschlaufe.md"
   ]
 }
