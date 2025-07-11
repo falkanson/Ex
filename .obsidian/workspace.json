@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7526c412187554c4",
+        "id": "e48cb9995ce6edef",
         "type": "tabs",
         "children": [
           {
-            "id": "6b94453dc7909d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zirkulationsgesetz des E-Felds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zirkulationsgesetz des E-Felds"
-            }
-          },
-          {
-            "id": "b48f39a58fd6466e",
+            "id": "7b1ee5d26d363293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,91 +22,49 @@
             }
           },
           {
-            "id": "1eaae241889855c9",
+            "id": "9cc29abff124466e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molekularstrom.md",
+                "file": "Maxwell Zusammenfassung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molekularstrom"
+              "title": "Maxwell Zusammenfassung"
             }
           },
           {
-            "id": "5a0026747780afc6",
+            "id": "ecd599f5e6bba51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetisierung.md",
+                "file": "Felder in einer runden Spule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetisierung"
+              "title": "Felder in einer runden Spule"
             }
           },
           {
-            "id": "b2e1bdde2f80e112",
+            "id": "36606b5b4698a2fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polarisation.md",
+                "file": "Induktionsspannung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polarisation"
-            }
-          },
-          {
-            "id": "2a161710c2f71f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magnetische Suszeptibilität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnetische Suszeptibilität"
-            }
-          },
-          {
-            "id": "fdbe07745032a364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektrische Suszeptibilität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elektrische Suszeptibilität"
-            }
-          },
-          {
-            "id": "bf4b5891533c063f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magnetischeflussdichte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnetischeflussdichte"
+              "title": "Induktionsspannung"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,33 +214,33 @@
   },
   "active": "85df45ce6c6180c2",
   "lastOpenFiles": [
-    "Elektrische Suszeptibilität.md",
-    "Magnetische Suszeptibilität.md",
-    "Magnetischeflussdichte.md",
-    "Magnetischer Fluß.md",
-    "Magnetische Erregung.md",
-    "Magnetisierung.md",
-    "Polarisation.md",
-    "Untitled.md",
-    "Molekularstrom.md",
-    "Magnetischer Dipolmoment.md",
+    "Felder in einer runden Spule.md",
+    "Induktionsspannung.md",
+    "Maxwell Zusammenfassung.md",
     "Zirkulationsgestz des B-Felds.md",
     "Zirkulationsgesetz des E-Felds.md",
-    "Zirkulationskgesetz B-Feld Beispiele.md",
-    "Windungsdichte.md",
-    "Biot-Savat Gesetz.md",
-    "Maxwell 1  - Bonus.md",
-    "Maxwell 2.md",
     "Gaußschesgestz.md",
-    "test.md",
-    "Jacobi Identiät.md",
-    "push",
-    "Hallspannung.md",
-    "Elektrischer Strom.md",
-    "Lorenzkraft.md",
-    "Untitled.canvas",
+    "Maxwell 2.md",
+    "Maxwell 1 in Materie.md",
+    "Maxwell 1  - Bonus.md",
+    "Elektrische Feldstärke.md",
+    "Feldgleichungen in Materie.md",
+    "Untitled 2.md",
+    "Magnetisierung.md",
+    "Marie Curie Gesetz.md",
+    "Dielektrische Verschiebung.md",
+    "Dielektrika.md",
+    "Kraft des Magnetischen Dipol.md",
     "Magnetisches Dipolmoment.md",
-    "Elektrsiche Kraft.md",
-    "Drehmoment auf Leiterschlaufe.md"
+    "Magnetischer Dipolmoment.md",
+    "Potenzielle Energie eines magnetischen Dipols.md",
+    "Magnetische Suszeptibilität.md",
+    "Magnetische Erregung.md",
+    "Materie im Magnetischen Feld.md",
+    "Materie im Elektrischen Feld.md",
+    "Polarisation.md",
+    "Elektrische Suszeptibilität.md",
+    "push",
+    "Untitled.canvas"
   ]
 }

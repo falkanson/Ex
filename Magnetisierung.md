@@ -1,4 +1,7 @@
 $$\huge
+\vec{M}=\chi_{m}\vec{H}
+$$
+$$\huge
 \vec{M}=\frac{1}{V}\sum_{i}\mu_{i} =\frac{I_{m}}{l}\hat{n} \text{ ("Stromdichte")}
 $$
 $\mu$ := [[Magnetischer Dipolmoment]]
