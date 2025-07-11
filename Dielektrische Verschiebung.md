@@ -1,8 +1,8 @@
 $$\huge
 \vec{D}=\epsilon_{o}*\vec{E}_{vac}
 $$
-$\vec{D}=\epsilon_{o}\vec{E}_{Diel}+\vec{p}=\epsilon_{r}\epsilon_{0}\vec{D}_{Diel}=\epsilon_{0}\vec{E}_{vac}$
-
+$\vec{D}=\epsilon_{o}\vec{E}_{Diel}+\vec{P}=\epsilon_{r}\epsilon_{0}\vec{D}_{Diel}=\epsilon_{0}\vec{E}_{vac}$
+$\vec{P}$:=[[Polarisation]]
 ### Regeln
 $$\large
 \text{Vakuum: } \vec{E}_{diel}=\vec{E}_{vak} \quad \vec{D}=\epsilon_{o}\vec{E}_{vak}
