@@ -1,10 +1,10 @@
-Erhält man druch Koeffizienten vergleich der DGLs vom Wechselstrom
+Erhält man durch Koeffizienten vergleich der DGLs vom Wechselstrom
 ## Induktiv
 $$\huge
 Z_{L}=\frac{U_{0}}{I_{0}}=\omega L \qquad \varphi=-\frac{\pi}{2}
 $$
-$\omega$ :=Phasengeschwindichkeit
-L := Inductivität
+$\omega$ := [[Winkelgeschwindichkeit]]
+L := Induktivität
 
 ---
 ## Kapazitiv
