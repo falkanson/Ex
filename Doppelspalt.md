@@ -10,7 +10,7 @@ $$
 ### Intensität in einem Punkt
 durch addition der wellen
 $$\large
-\hat{I}=4I_{0}\cos\left( \frac{1}{2}\delta \right) \underset{ \text{für kleine Winkel} }{ = }4I_{0}\cos\left( \frac{\pi d}{\lambda}\theta \right)
+\hat{I}=4I_{0}\cos\left( \frac{1}{2}\delta \right) \underset{ \text{kleine Winkel} }{ = }4I_{0}\cos\left( \frac{\pi d}{\lambda}\theta \right)
 $$
 ---
 Durch Furie

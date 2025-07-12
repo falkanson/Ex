@@ -4,263 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab96d31e6556eb3",
+        "id": "8041fbcd4e55922d",
         "type": "tabs",
         "children": [
           {
-            "id": "bffb8a4e89c47a19",
+            "id": "a8ca885e31d4b6fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Doppelspalt.md",
-                "mode": "source",
-                "source": false
+                "file": "Overview.canvas",
+                "viewState": {
+                  "x": 550.7439226968045,
+                  "y": 2280.528413526895,
+                  "zoom": -3.6
+                }
               },
-              "icon": "lucide-file",
-              "title": "Doppelspalt"
-            }
-          },
-          {
-            "id": "f86c433931bae522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kohärenzlänge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kohärenzlänge"
-            }
-          },
-          {
-            "id": "51272268d669cf5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phasendifferenz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phasendifferenz"
-            }
-          },
-          {
-            "id": "e65b6e11411a4f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einzelspalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einzelspalt"
-            }
-          },
-          {
-            "id": "f9f9c4ec01bca895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intensität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intensität"
-            }
-          },
-          {
-            "id": "0ab3a31d6d27334a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doppelspalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Doppelspalt"
-            }
-          },
-          {
-            "id": "42e3b10e02ff0eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mehrfachspalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mehrfachspalt"
-            }
-          },
-          {
-            "id": "c13da2d8a06d79ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Auflösevermögen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auflösevermögen"
-            }
-          },
-          {
-            "id": "f060fd946877d214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lichtgeschwindigkeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lichtgeschwindigkeit"
-            }
-          },
-          {
-            "id": "17b5b0b4deb07993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brechungsgesetz - Gesetz von Snellius.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brechungsgesetz - Gesetz von Snellius"
-            }
-          },
-          {
-            "id": "4dbd05435c18ffcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kritischer Winkel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kritischer Winkel"
-            }
-          },
-          {
-            "id": "5341605dba308948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intensität.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intensität"
-            }
-          },
-          {
-            "id": "30b7187d1cdfc92e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polarisiertes Licht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polarisiertes Licht"
-            }
-          },
-          {
-            "id": "3750d7cc9930359e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grenzbedingungen bei Reflektion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grenzbedingungen bei Reflektion"
-            }
-          },
-          {
-            "id": "7b7db13b4cee6b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflektionskoeffizient.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reflektionskoeffizient"
-            }
-          },
-          {
-            "id": "206b5da228528143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transmissionskoeffizient.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transmissionskoeffizient"
-            }
-          },
-          {
-            "id": "b0485c33796cd7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transmissionsgrad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transmissionsgrad"
-            }
-          },
-          {
-            "id": "cfe451e02fccbbfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fresnelschen Gleichungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fresnelschen Gleichungen"
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inten",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,12 +77,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "928d75ed2239f52c",
@@ -408,10 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe451e02fccbbfd",
+  "active": "a8ca885e31d4b6fb",
   "lastOpenFiles": [
-    "Transmissionsgrad.md",
+    "Linsensysteme.md",
+    "Overview.canvas",
+    "Abbildungsgleichung.md",
+    "Linsengleichung.md",
+    "Fokussierende Linse.md",
+    "Doppelbrechung.md",
+    "Gesetz von Brewster.md",
     "Fresnelschen Gleichungen.md",
+    "Transmissionsgrad.md",
     "Reflektionsgrad.md",
     "Transmissionskoeffizient.md",
     "Reflektionskoeffizient.md",
@@ -429,14 +200,6 @@
     "Doppelspalt.md",
     "Kohärenzlänge.md",
     "Fourier-Transformation.md",
-    "Phasendifferenz.md",
-    "Einzelspalt.md",
-    "Beziehungen in Elektromagnetischen Wellen.md",
-    "Amplitude am Gitter.md",
-    "Gitterkonstante.md",
-    "Herzscher Dipol.md",
-    "Energiestromdichte - Poynting Vector.md",
-    "Untitled.canvas",
     "push"
   ]
 }

@@ -1,3 +1,4 @@
+Reflektion von EM-Strahlung
 $$\huge
 R_{\perp}(\alpha,\beta)=\frac{I_{\perp,r}}{I_{\perp,e}}=\left( \frac{\sin(\alpha- \beta)}{\sin(\alpha+\beta)} \right)^2
 $$
