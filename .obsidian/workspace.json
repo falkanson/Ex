@@ -8,91 +8,259 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac4a3f4a9aeb5920",
+            "id": "bffb8a4e89c47a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektromagentische Wellen.md",
+                "file": "Doppelspalt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektromagentische Wellen"
+              "title": "Doppelspalt"
             }
           },
           {
-            "id": "b20a470ff992b4ea",
+            "id": "f86c433931bae522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beziehungen in Elektromagnetischen Wellen.md",
+                "file": "Kohärenzlänge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beziehungen in Elektromagnetischen Wellen"
+              "title": "Kohärenzlänge"
             }
           },
           {
-            "id": "d978e48e85368677",
+            "id": "51272268d669cf5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kugelwelle.md",
+                "file": "Phasendifferenz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kugelwelle"
+              "title": "Phasendifferenz"
             }
           },
           {
-            "id": "e6ab106d29c63861",
+            "id": "e65b6e11411a4f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energiedichte einer EM- Welle.md",
+                "file": "Einzelspalt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energiedichte einer EM- Welle"
+              "title": "Einzelspalt"
             }
           },
           {
-            "id": "75206d21e70e9085",
+            "id": "f9f9c4ec01bca895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energiestromdichte - Poynting Vector.md",
+                "file": "Intensität.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energiestromdichte - Poynting Vector"
+              "title": "Intensität"
             }
           },
           {
-            "id": "17fd38c9b211d247",
+            "id": "0ab3a31d6d27334a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beziehungen in Elektromagnetischen Wellen.md",
+                "file": "Doppelspalt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beziehungen in Elektromagnetischen Wellen"
+              "title": "Doppelspalt"
+            }
+          },
+          {
+            "id": "42e3b10e02ff0eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mehrfachspalt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mehrfachspalt"
+            }
+          },
+          {
+            "id": "c13da2d8a06d79ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auflösevermögen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auflösevermögen"
+            }
+          },
+          {
+            "id": "f060fd946877d214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lichtgeschwindigkeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lichtgeschwindigkeit"
+            }
+          },
+          {
+            "id": "17b5b0b4deb07993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brechungsgesetz - Gesetz von Snellius.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brechungsgesetz - Gesetz von Snellius"
+            }
+          },
+          {
+            "id": "4dbd05435c18ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kritischer Winkel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kritischer Winkel"
+            }
+          },
+          {
+            "id": "5341605dba308948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intensität.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intensität"
+            }
+          },
+          {
+            "id": "30b7187d1cdfc92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarisiertes Licht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polarisiertes Licht"
+            }
+          },
+          {
+            "id": "3750d7cc9930359e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grenzbedingungen bei Reflektion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grenzbedingungen bei Reflektion"
+            }
+          },
+          {
+            "id": "7b7db13b4cee6b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflektionskoeffizient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reflektionskoeffizient"
+            }
+          },
+          {
+            "id": "206b5da228528143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transmissionskoeffizient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmissionskoeffizient"
+            }
+          },
+          {
+            "id": "b0485c33796cd7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transmissionsgrad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmissionsgrad"
+            }
+          },
+          {
+            "id": "cfe451e02fccbbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fresnelschen Gleichungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fresnelschen Gleichungen"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -124,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Be",
+                "query": "inten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,35 +408,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17fd38c9b211d247",
+  "active": "cfe451e02fccbbfd",
   "lastOpenFiles": [
+    "Transmissionsgrad.md",
+    "Fresnelschen Gleichungen.md",
+    "Reflektionsgrad.md",
+    "Transmissionskoeffizient.md",
+    "Reflektionskoeffizient.md",
+    "Grenzbedingungen bei Reflektion.md",
+    "Polarisiertes Licht.md",
+    "Intensität.md",
+    "Gesetz von Malus - Polarisation.md",
+    "Kritischer Winkel.md",
+    "Brechungsgesetz - Gesetz von Snellius.md",
     "Lichtgeschwindigkeit.md",
-    "Eigenfrequenz Schwingkreis.md",
-    "Energiestromdichte - Poynting Vector.md",
-    "Energiedichte einer EM- Welle.md",
-    "Kugelwelle.md",
-    "Beziehungen in Elektromagnetischen Wellen.md",
-    "Elektromagentische Wellen.md",
-    "Gruppengeschwindichkeit.md",
-    "Phasengeschwindichkeit.md",
-    "Brechungsindex.md",
-    "Transformator.md",
-    "Untitled.canvas",
-    "Fourier-Reihe.md",
-    "Kondensator Energie.md",
-    "Überlagerung von Wellen.md",
-    "Impedanz.md",
+    "Reflexionsgesetz.md",
+    "Auflösevermögen.md",
+    "Mehrfachspalt.md",
     "Wellenzahl.md",
-    "Winkelgeschwindichkeit.md",
-    "Rotationsgeschwindichkeit.md",
-    "Energie in E und B Feld.md",
-    "Spulen Energie.md",
-    "Komplexe Impedanz.md",
-    "Blindleistung.md",
-    "Entladen einer Spule.md",
-    "Laden einer Spule.md",
-    "Frequenzfilter.md",
-    "Wechselstrom.md",
+    "Doppelspalt.md",
+    "Kohärenzlänge.md",
+    "Fourier-Transformation.md",
+    "Phasendifferenz.md",
+    "Einzelspalt.md",
+    "Beziehungen in Elektromagnetischen Wellen.md",
+    "Amplitude am Gitter.md",
+    "Gitterkonstante.md",
+    "Herzscher Dipol.md",
+    "Energiestromdichte - Poynting Vector.md",
+    "Untitled.canvas",
     "push"
   ]
 }
