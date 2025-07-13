@@ -6,5 +6,5 @@ $$\large
 $$
 
 
-B := [[Magnetischeflussdichte]]
+B := [[Mag. Flussdichte]]
 L := [[Induktivität]]

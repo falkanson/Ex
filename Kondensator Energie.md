@@ -1,4 +1,4 @@
-$$\huge
+$$\large
 W=\frac{1}{2} CU^2$$
 ### Im Feld
 $$\large
@@ -6,7 +6,6 @@ W_{e}=\frac{1}{2}\epsilon _{r}\epsilon_{0}VE²
 $$
 #### Plattenkondensator
 $$
-\large
 E_{e}= \epsilon_{0}V|\vec{E}|
 $$
 #### Energiedichte

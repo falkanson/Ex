@@ -12,14 +12,20 @@ $$\large
 \hat{Z}=\lvert \hat{Z} \rvert e^{i\varphi}
 $$
 $$\large
-\lvert \hat{Z} \rvert =\sqrt{ \mathrm{Re}(\hat{Z})+\mathrm{Im}(\hat{Z}) } \qquad \varphi=arg(\hat{Z})=\arctan\left( \frac{\mathrm{Im}(\hat{Z})}{\mathrm{Re}(\hat{Z})} \right)
+\lvert \hat{Z} \rvert =\sqrt{ \mathrm{Re}(\hat{Z})+\mathrm{Im}(\hat{Z}) }$$
+$$\large
+\varphi=arg(\hat{Z})=\arctan\left( \frac{\mathrm{Im}(\hat{Z})}{\mathrm{Re}(\hat{Z})} \right)
 $$
 ---
 ## Herleitung per Beispiel
 Induktiver Wiederstad:
-$$\large
+$$
 U(t)=\hat{U}_{0}e^{i\omega t}
 $$
-$$\large
-I(t)=\frac{\hat{U}_{0}}{\omega L}e^{i\left( \omega t-\frac{\pi}{2} \right)} =\frac{\hat{U}_{0}}{\omega L}e^{-i*\pi/2}e^{i\omega t}=\frac{\hat{U}_{0}}{i\omega L}e^{iwt}=\hat{I}_{0}e^{i\omega t}
+$$
+I(t)=\frac{\hat{U}_{0}}{\omega L}e^{i\left( \omega t-\frac{\pi}{2} \right)}
+$$
+
+$$
+ =\frac{\hat{U}_{0}}{\omega L}e^{-i*\pi/2}e^{i\omega t}=\frac{\hat{U}_{0}}{i\omega L}e^{iwt}=\hat{I}_{0}e^{i\omega t}
 $$

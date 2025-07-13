@@ -1,5 +1,7 @@
 $$\huge
-\oint \vec{E}d\vec{A}=\frac{q+\sigma_{p}A}{\epsilon_{0}} \quad EA=q-PA/\epsilon_{0}
+\oint \vec{E}d\vec{A}=\frac{q+\sigma_{p}A}{\epsilon_{0}} 
+$$
+$$\huge EA=q-PA/\epsilon_{0}
 $$
 $$\huge
 \oint \vec{D}d\vec{A}=DA=q=(\epsilon_{0}E+P)A

@@ -6,7 +6,8 @@ $$\huge
 \frac{1}{f}=\frac{n_{2}-n_{1}}{n_{1}}\left( \frac{1}{R_{1}}-\frac{1}{R_{2}} \right)
 $$
 $$\large
-R_{1}>0 \,, R_{2}<0 \text{ Konvex}$$$$\large R_{1}>0 \,, R_{2}>0 \text{ Konkav}
+R_{1}>0 \,, R_{2}<0 \text{ Konvex}$$
+$$\large R_{1}>0 \,, R_{2}>0 \text{ Konkav}
 $$
 
 $n_{2}$ ist Linsenmedium, koordinaten sind fest definiert deswegen auch negative Radien usw.

@@ -1,5 +1,5 @@
 $$\huge
-\vec{F}_{\text{Lorenz}}=q(\vec{v} \times \vec{B}) \implies F=q*v*B
+\vec{F}_{\text{Lorenz}}=q(\vec{v} \times \vec{B}) \implies F=qvB
 $$
 
 ## Allgemein
