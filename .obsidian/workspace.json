@@ -15,9 +15,9 @@
               "state": {
                 "file": "Overview.canvas",
                 "viewState": {
-                  "x": -4350.560642690571,
-                  "y": 805.7334676720398,
-                  "zoom": -0.4000000000000006
+                  "x": -3686.3705583756346,
+                  "y": -2780.809456297589,
+                  "zoom": -3.0885909110132497
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -187,8 +187,9 @@
   },
   "active": "a8ca885e31d4b6fb",
   "lastOpenFiles": [
-    "Volumen eines Zylinders.md",
     "Overview.canvas",
+    "Kontinuierliche Ladungsverteilung.md",
+    "Volumen eines Zylinders.md",
     "Fresnel Gleichungen Transmission.md",
     "Fresnelschen Gleichungen Reflektion.md",
     "Generatoren.md",
@@ -212,7 +213,6 @@
     "Brechungsgesetz - Gesetz von Snellius.md",
     "Lichtgeschwindigkeit.md",
     "Reflexionsgesetz.md",
-    "Auflösevermögen.md",
     "push"
   ]
 }
