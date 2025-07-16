@@ -7,3 +7,6 @@ $$
 $$
 S=\frac{\text{Strahlungsleistung}}{\text{Fläche}}=\frac{\text{Energie}}{Fläche*Zeit}=\text{Energiedichte}\times\text{Geschwindichkeit}
 $$
+Wenn Sin E und B sinus wellen: $$
+\hat{S}=\bar{S}=\langle S\rangle = 2S
+$$
