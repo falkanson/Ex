@@ -6,5 +6,5 @@ $$
 $$
 ## Allgemeine Potential
 $$
-\huge \varphi(\vec{R})=\frac{1}{r\pi\epsilon_{0}} \int \frac{\rho(\vec{r})}{|\vec{R} - \vec{r}|}dV
+\huge \varphi(\vec{R})=\frac{1}{4\pi\epsilon_{0}} \int \frac{\rho(\vec{r})}{|\vec{R} - \vec{r}|}dV
 $$
