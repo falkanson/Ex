@@ -12,7 +12,7 @@ $$\large
 \hat{Z}=\lvert \hat{Z} \rvert e^{i\varphi}
 $$
 $$\large
-\lvert \hat{Z} \rvert =\sqrt{ \mathrm{Re}(\hat{Z})+\mathrm{Im}(\hat{Z}) }$$
+\lvert \hat{Z} \rvert =\sqrt{ \mathrm{Re}^2(\hat{Z})+\mathrm{Im}^2(\hat{Z}) }$$
 $$\large
 \varphi=arg(\hat{Z})=\arctan\left( \frac{\mathrm{Im}(\hat{Z})}{\mathrm{Re}(\hat{Z})} \right)
 $$
