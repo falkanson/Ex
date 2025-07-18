@@ -80,7 +80,8 @@
               "title": "Logarithmus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b1ee5d26d363293",
+  "active": "0ac44ecdc7e27a3d",
   "lastOpenFiles": [
-    "Maxwell 1  - Bonus.md",
     "Overview.canvas",
+    "Maxwell 1  - Bonus.md",
     "Strahlungsdruck.md",
     "Komplexe Zahlen.md",
     "Druck.md",
@@ -255,7 +256,6 @@
     "Transmissionsgrad.md",
     "Transformator.md",
     "Spulen Energie.md",
-    "Spannungen für Maschenregel.md",
     "push",
     "Untitled.canvas"
   ]

@@ -11,5 +11,5 @@ $$\large
 |\vec{E}|=\frac{\sigma}{2\epsilon_{0}}$$
 ###### Kugel
 $$ \large
-\vec{E}(\vec{r})=\frac{1}{4\pi\epsilon_{0}} * \frac{Q}{R}
+\vec{E}(\vec{r})=\frac{1}{4\pi\epsilon_{0}} * \frac{Q}{R^2}
 $$
