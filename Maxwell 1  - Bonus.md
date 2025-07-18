@@ -5,7 +5,7 @@ $$
 $$
 $\rho := \text{Ladungsdichte}$
 ###### Unendlich Langer Draht
-$$\large |\vec{E}|=\frac{1}{4\pi\epsilon_{0}}* \frac{1}{R}$$
+$$\large |\vec{E}|=\frac{1}{4\pi\epsilon_{0}}* \frac{Q}{R}$$
 ###### Unendlich ausgedehnte Fläche 
 $$\large
 |\vec{E}|=\frac{\sigma}{2\epsilon_{0}}$$

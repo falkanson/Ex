@@ -15,9 +15,9 @@
               "state": {
                 "file": "Overview.canvas",
                 "viewState": {
-                  "x": 606.6929493216112,
-                  "y": -2023.988117520364,
-                  "zoom": -2.2
+                  "x": -3613.8418516689185,
+                  "y": -1427.3567314570744,
+                  "zoom": -0.313521301680058
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,73 +25,17 @@
             }
           },
           {
-            "id": "871b0cb47c86328c",
+            "id": "0ac44ecdc7e27a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komplexe Zahlen.md",
+                "file": "Maxwell 1  - Bonus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Komplexe Zahlen"
-            }
-          },
-          {
-            "id": "530eb12435522849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strahlungsdruck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strahlungsdruck"
-            }
-          },
-          {
-            "id": "f8ff01356896b33a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Druck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Druck"
-            }
-          },
-          {
-            "id": "24ba458a38aa3098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transformator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transformator"
-            }
-          },
-          {
-            "id": "0a7ed5d6966d8dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Komplexe Impedanz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Komplexe Impedanz"
+              "title": "Maxwell 1  - Bonus"
             }
           },
           {
@@ -285,13 +229,11 @@
   },
   "active": "7b1ee5d26d363293",
   "lastOpenFiles": [
-    "Komplexe Zahlen.md",
-    "Strahlungsdruck.md",
+    "Maxwell 1  - Bonus.md",
     "Overview.canvas",
+    "Strahlungsdruck.md",
+    "Komplexe Zahlen.md",
     "Druck.md",
-    "Transformator.md",
-    "Komplexe Impedanz.md",
-    "Generatoren.md",
     "Trigstuff.md",
     "Integral.md",
     "Logarithmus.md",
@@ -311,7 +253,9 @@
     "Wechselstrom.md",
     "Transmissionskoeffizient.md",
     "Transmissionsgrad.md",
+    "Transformator.md",
     "Spulen Energie.md",
+    "Spannungen für Maschenregel.md",
     "push",
     "Untitled.canvas"
   ]
