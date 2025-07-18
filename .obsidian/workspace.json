@@ -15,13 +15,55 @@
               "state": {
                 "file": "Overview.canvas",
                 "viewState": {
-                  "x": -638.8150885843679,
-                  "y": 242.86285914705195,
-                  "zoom": -0.9999999999999999
+                  "x": -5.973913452782654,
+                  "y": -1544.7216602677331,
+                  "zoom": -0.6000000000000004
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Overview"
+            }
+          },
+          {
+            "id": "530eb12435522849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strahlungsdruck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strahlungsdruck"
+            }
+          },
+          {
+            "id": "f8ff01356896b33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Druck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Druck"
+            }
+          },
+          {
+            "id": "24ba458a38aa3098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformator"
             }
           },
           {
@@ -80,8 +122,7 @@
               "title": "Logarithmus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +175,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,9 +269,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a7ed5d6966d8dfc",
+  "active": "7b1ee5d26d363293",
   "lastOpenFiles": [
     "Overview.canvas",
+    "Strahlungsdruck.md",
+    "Druck.md",
+    "Transformator.md",
+    "Komplexe Impedanz.md",
     "Generatoren.md",
     "Trigstuff.md",
     "Integral.md",
@@ -252,11 +296,7 @@
     "Wechselstrom.md",
     "Transmissionskoeffizient.md",
     "Transmissionsgrad.md",
-    "Transformator.md",
     "Spulen Energie.md",
-    "Spannungen für Maschenregel.md",
-    "Selbstinduktion.md",
-    "Regeln für Dielektrika.md",
     "push",
     "Untitled.canvas"
   ]
