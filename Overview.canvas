@@ -141,7 +141,8 @@
 		{"id":"7b4e85bd69baba31","type":"file","file":"Elektrischer Dipol.md","x":-5320,"y":-2900,"width":400,"height":400,"color":"3"},
 		{"id":"197cb24c6733c953","type":"file","file":"E-Feld Kugel.md","x":-4880,"y":-2900,"width":400,"height":400,"color":"3"},
 		{"id":"898f4b8f8b040636","x":-1800,"y":1280,"width":400,"height":180,"type":"file","file":"Druck.md"},
-		{"id":"9cb5c1ee94729817","x":-920,"y":-1333,"width":400,"height":152,"color":"4","type":"file","file":"Strahlungsdruck.md"}
+		{"id":"9cb5c1ee94729817","x":-920,"y":-1333,"width":400,"height":152,"color":"4","type":"file","file":"Strahlungsdruck.md"},
+		{"id":"5342a7226cd0c763","x":1280,"y":-2905,"width":400,"height":400,"type":"file","file":"Komplexe Zahlen.md"}
 	],
 	"edges":[
 		{"id":"7b1506799da68bd0","fromNode":"0f4391f8e01edefe","fromSide":"bottom","toNode":"221441a88f1ba8d1","toSide":"top"},
